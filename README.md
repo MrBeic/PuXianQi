@@ -45,6 +45,7 @@ CC-BY-NC-SA 3.0 开源许可介绍：https://creativecommons.org/licenses/by-nc-
 
 ### 更新日志：
 
+
 #### v2.0.3 2024-02-21 19:03:05
 
 ​	增加了线梳图纸
@@ -58,3 +59,7 @@ CC-BY-NC-SA 3.0 开源许可介绍：https://creativecommons.org/licenses/by-nc-
 #### v2.0.7 2024-02-26 02:29:43
 ​
 	改进线梳线夹平台细节
+
+#### v2.0.8 ~ v2.0.10 2024-03-28 00:34:25
+
+	简化内部部件，优化细节
